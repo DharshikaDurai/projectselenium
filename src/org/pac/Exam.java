@@ -5,7 +5,7 @@ public class Exam {
 		System.out.println("java");
 		System.out.println("python");
 		System.out.println("hadoop");
-		
+		System.out.println(".net");
 	}
 
 }
